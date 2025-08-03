@@ -14,7 +14,11 @@ return {
 				c.blue = "#ffffff"
 				c.fg_gutter = "#627f64"
 				c.blue1 = "#537DC9"
-				c.green = "#A7D291"
+				c.green1 = "#A7D291"
+				c.green = "#aaaaaa"
+				c.black = "#252525"
+				c.bg_statusline = "#252525"
+
 				-- leave the rest unchanged
 			end,
 			on_highlights = function(hl, c) -- ← optional, per-group tweaks
