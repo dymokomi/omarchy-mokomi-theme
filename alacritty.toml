@@ -1,13 +1,13 @@
 [colors]
 [colors.primary]
-background = '#1a1b26'
-foreground = '#a9b1d6'
+background = '#1a1a1a'
+foreground = '#d6d6d6'
 
 # Normal colors
 [colors.normal]
 black = '#32344a'
 red = '#f7768e'
-green = '#9ece6a'
+green = '#627F64'
 yellow = '#e0af68'
 blue = '#7aa2f7'
 magenta = '#ad8ee6'
@@ -18,7 +18,7 @@ white = '#787c99'
 [colors.bright]
 black = '#444b6a'
 red = '#ff7a93'
-green = '#b9f27c'
+green = '#627f64'
 yellow = '#ff9e64'
 blue = '#7da6ff'
 magenta = '#bb9af7'
@@ -26,4 +26,4 @@ cyan = '#0db9d7'
 white = '#acb0d0'
 
 [colors.selection]
-background = '#7aa2f7'
+background = '#627f64'
